@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DucThinhEXE ( Jiray Software )
-- 👀 I’m student of THPT Hiệp Hoà 3 
+- 👀 I’m student of THPT Hiệp Hoà 3 - Hiệp Hoà - Bắc Giang
 - 🌱 I’m alone:((((
 - Facebook : fb.com/DucThinhEXE
 - Telegram : @DucThinhEXE
+- Donate me : 8386282006 - MBBANK
