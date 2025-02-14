@@ -46,7 +46,7 @@
 
 ### 🔥 **Chuỗiiiiiiii**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DucThinhEXE" alt="Chuỗiiii" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucThinhEXE&locale=vi" alt="Chuỗiiii" />
 </p>
 
 ---
