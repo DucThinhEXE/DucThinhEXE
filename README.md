@@ -10,7 +10,9 @@
 ---
 
 ### 👨‍💻 **Vài dòng về mình:**
-- 🌱 Đang học hỏi và phát triển kỹ năng về **Application Software*.  
+- 🌱 Đang học hỏi và phát triển kỹ năng về **Application Software*.
+- ✈️ Mình thích được đi khám phá
+- 🔔 Sinh Năm 2006 
 - ⚡ Fun fact: **Dog > Pig*.
 
 ---
@@ -40,13 +42,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DucThinhEXE&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucThinhEXE&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 **Chuỗiiiiiiii**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucThinhEXE&locale=vi" alt="Chuỗiiii" />
 </p>
 
 ---
