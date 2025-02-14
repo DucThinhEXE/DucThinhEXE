@@ -6,6 +6,11 @@
 <h1 align="center">Xin chào! Mình là [Tên của bạn] 👋</h1>
 <h3 align="center">✨ Developer | Creator | Dreamer ✨</h3>
 
+<!-- Số lượt truy cập -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[Tên người dùng GitHub]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 👨‍💻 **Vài dòng về mình:**
@@ -45,31 +50,18 @@
 
 ---
 
-### 🔥 **Contribution Graph:**
+### 🔥 **GitHub Streak:**
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=[Tên người dùng GitHub]&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Tên người dùng GitHub]&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🎨 **Tùy chỉnh thêm:**
-- Bạn có thể thêm dự án nổi bật, bài viết blog, hoặc video YouTube nếu muốn.
-- Nếu muốn đổi màu sắc hoặc kiểu hiển thị, cứ báo mình nhé!
-
----
-
-### 🚀 **Hướng dẫn sử dụng:**
-1. **Thay thế** tất cả `[Tên người dùng GitHub]`, `[Tên của bạn]`, `[tài khoản]`, `[email của bạn]` bằng thông tin cá nhân của bạn.  
-2. **Tạo một repository mới** với tên là **`[Tên người dùng GitHub]`**.  
-3. **Thêm file `README.md`** và dán mã trên vào.  
-4. **Commit và đẩy lên GitHub**.  
-
----
-
-### 📸 **Banner**:  
-- Nếu cần tạo một banner riêng hoặc chỉnh sửa banner hiện tại, cứ báo t nhé!  
-- Hoặc tự tạo bằng **Canva** hay **Photopea** với kích thước `800x200px`.
-
----
-
-Nếu muốn thêm bất kỳ tính năng nào khác, cứ thoải mái yêu cầu nhé! 🚀
+### 🗂️ **Biểu đồ hoạt động:**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Tên người dùng GitHub]&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[Tên người dùng GitHub]&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[Tên người dùng GitHub]&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[Tên người dùng GitHub]&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[Tên người dùng GitHub]&theme=radical" alt="Productive Time" />
+</p>
