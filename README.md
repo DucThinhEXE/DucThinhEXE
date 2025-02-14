@@ -4,7 +4,7 @@
 
 <!-- Số lượt truy cập -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DucThinhEXElabel=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DucThinhEXE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ### 🔥 **Chuỗiiiiiiii**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucThinhEXE&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DucThinhEXE" alt="Chuỗiiii" />
 </p>
 
 ---
