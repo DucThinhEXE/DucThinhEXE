@@ -1,36 +1,30 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zp12yWm.png" alt="Banner" width="800">
-</p>
-
-<h1 align="center">Xin chào! Mình là [Tên của bạn] 👋</h1>
-<h3 align="center">✨ Developer | Creator | Dreamer ✨</h3>
+<h1 align="center">Hello, I'm Nguyễn Đức Thịnh👋</h1>
+<h3 align="center">✨ Developer | Dreamer ✨</h3>
 
 <!-- Số lượt truy cập -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Tên người dùng GitHub]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DucThinhEXElabel=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 **Vài dòng về mình:**
-- 🔭 Hiện tại đang làm việc tại **[Tên công ty/Nơi làm việc]**.  
-- 🌱 Đang học hỏi và phát triển kỹ năng về **[Công nghệ đang học]**.  
-- 💬 Hỏi mình bất cứ điều gì về **[Chủ đề bạn giỏi]**.  
-- ⚡ Fun fact: **[Một sự thật thú vị về bạn]**.
+- 🌱 Đang học hỏi và phát triển kỹ năng về **Application Software*.  
+- ⚡ Fun fact: **Dog > Pig*.
 
 ---
 
 ### 🌐 **Liên hệ với mình:**
 <p align="left">
-  <a href="https://facebook.com/[tài khoản]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://linkedin.com/in/[tài khoản]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[email của bạn]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://facebook.com/DwcThjnh" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://t.me/DucThinhEXE target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:jiray206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-### 🛠️ **Tech Stack của mình:**
+### 🛠️ **Tech Stack :**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -44,24 +38,24 @@
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Tên người dùng GitHub]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Tên người dùng GitHub]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DucThinhEXE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucThinhEXE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 **GitHub Streak:**
+### 🔥 **Chuỗiiiiiiii**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Tên người dùng GitHub]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucThinhEXE&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🗂️ **Biểu đồ hoạt động:**
+### 🗂️ **Cgi Mình Làm Thì Nó Ở Đây Nè**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Tên người dùng GitHub]&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[Tên người dùng GitHub]&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[Tên người dùng GitHub]&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[Tên người dùng GitHub]&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[Tên người dùng GitHub]&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DucThinhEXE&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DucThinhEXE&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DucThinhEXE&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DucThinhEXE&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DucThinhEXE&theme=radical" alt="Productive Time" />
 </p>
